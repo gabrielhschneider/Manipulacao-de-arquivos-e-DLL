@@ -1,0 +1,57 @@
+unit uFrmPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Xml.xmldom, Xml.XMLIntf, Xml.XMLDoc,
+  Vcl.StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    mmLeitura: TMemo;
+    btnExecutar: TButton;
+    XMLDocument1: TXMLDocument;
+    procedure btnExecutarClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.btnExecutarClick(Sender: TObject);
+var
+  xAplicacao   :IXMLNode;
+  xExecutaveis :IXMLNode;
+  xExecutavel  :IXMLNode;
+  xBibliotecas :IXMLNode;
+  xBiblioteca  :IXMLNode;
+  xVersao      :IXMLNode;
+  xDescricao   :IXMLNode;
+  xInfNo       :IXMLNode;
+  i            :Integer;
+begin
+  mmLeitura.Clear;
+
+  //Ativa o XMLDocument para podermos ler as informações do xml
+  XMLDocument1.Active := True;
+
+  //Busco o nó principal do xml
+  xAplicacao := XMLDocument1.DocumentElement;
+
+  //Busca o nó onde está a lista de executáveis
+  xExecutaveis := xAplicacao.ChildNodes.FindNode('executaveis');
+
+  //Busca o nó onde está a linha de bicliotecas
+  xBibliotecas := xAplicacao.ChildNodes.FindNode('bibliotecas');
+
+end;
+
+end.

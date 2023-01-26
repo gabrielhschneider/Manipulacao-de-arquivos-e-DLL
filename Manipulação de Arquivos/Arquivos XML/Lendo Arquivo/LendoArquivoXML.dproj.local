@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/06 21:03:03.000.006,=C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/07 18:34:08.000.234,=C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/07 18:43:01.000.571,C:\Users\gabrielschneider\Desktop\Gabriel schneider\Programação\Delphi Avançado 2.0\Manipulação de Arquivos XML\uFrmPrincipal.dfm=C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/12/07 18:43:01.000.571,C:\Users\gabrielschneider\Desktop\Gabriel schneider\Programação\Delphi Avançado 2.0\Manipulação de Arquivos XML\uFrmPrincipal.pas=C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/07 18:43:17.000.463,C:\Users\gabrielschneider\Desktop\Gabriel schneider\Programação\Delphi Avançado 2.0\Manipulação de Arquivos XML\DocumentoXML.dproj=C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2022/12/07 19:37:36.676,C:\Users\gabrielschneider\Desktop\Gabriel schneider\Programação\Delphi Avançado 2.0\Manipulação de Arquivos\Arquivos XML\Lendo Arquivo\LendoArquivoXML.dproj=C:\Users\gabrielschneider\Desktop\Gabriel schneider\Programação\Delphi Avançado 2.0\Manipulação de Arquivos\Arquivos XML\Lendo Arquivo\DocumentoXML.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

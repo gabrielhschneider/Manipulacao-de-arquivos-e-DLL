@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/06 21:03:03.000.006,=C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/07 20:18:05.000.687,=C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/07 20:29:58.000.496,=C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/12/07 20:30:17.000.289,C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\gabrielschneider\Desktop\Gabriel schneider\Programação\Delphi Avançado 2.0\DLL'S\uFrmPrincipal.pas</Transaction>
+    <Transaction>2022/12/07 20:30:17.000.289,C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\gabrielschneider\Desktop\Gabriel schneider\Programação\Delphi Avançado 2.0\DLL'S\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2022/12/07 20:30:30.000.621,C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\gabrielschneider\Desktop\Gabriel schneider\Programação\Delphi Avançado 2.0\DLL'S\uInfoPC.pas</Transaction>
+    <Transaction>2022/12/07 20:31:22.000.537,C:\Users\gabrielschneider\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\gabrielschneider\Desktop\Gabriel schneider\Programação\Delphi Avançado 2.0\DLL'S\InfoComputador.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

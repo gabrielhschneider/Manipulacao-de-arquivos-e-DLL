@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atualizacao>
+   <executaveis>
+      <excutavel versao="1.0.3.22" descricao="Modulo gerencial">gerencial.exe</excutavel>
+      <excutavel versao="1.0.3.123" descricao="Configuracoes de Aplicacao">configuracoes.exe</excutavel>
+   </executaveis>
+   <bibliotecas>
+      <biblioteca versao="2.0.0.1" descricao="Biblioteca de funcoes">funcoes.dll</biblioteca>
+      <biblioteca versao="1.2.0.4" descricao="Biblioteca com rotinas de negocios">app.dll</biblioteca>
+   </bibliotecas>
+</atualizacao>
